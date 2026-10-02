@@ -1,5 +1,3 @@
-## 📸 Project Screenshots
-
 ### Microsoft Sentinel Data Connectors
 ![Microsoft Sentinel Data Connectors](screenshots/01-sentinel-data-connectors.png)
 
@@ -14,5 +12,3 @@
 
 ### Threat Intelligence-Based Hunt
 ![Threat Intelligence Based Hunt](screenshots/05-ti-based-hunt.png)
-
----
