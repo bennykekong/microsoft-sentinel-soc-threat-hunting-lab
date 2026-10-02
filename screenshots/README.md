@@ -14,3 +14,5 @@
 
 ### Threat Intelligence-Based Hunt
 ![Threat Intelligence Based Hunt](screenshots/05-ti-based-hunt.png)
+
+---
