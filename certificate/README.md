@@ -1,3 +1,7 @@
-# Project Certificate
+## 🎓 Project Certification
 
-This folder contains the certificate for the Microsoft Sentinel SOC, Threat Hunting & Incident Response Lab.
+**Project:** Setting up Security Operations & Monitoring using Microsoft Sentinel  
+**Program:** Postgraduate Program in Cyber Security  
+**Institution:** Great Learning  
+
+[📄 View Project Certificate](certificate/microsoft%20sentinel%20capstone%20certificate.%20benard%20kekong.pdf)
